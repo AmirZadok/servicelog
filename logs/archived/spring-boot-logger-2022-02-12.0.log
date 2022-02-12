@@ -1,0 +1,90 @@
+2022-02-12 21:34:27,923 INFO org.springframework.boot.StartupInfoLogger [main] Starting Application using Java 1.8.0_112 on DESKTOP-8AUUKQG with PID 19168 (C:\projects\spring\javaAssignment\target\classes started by AmirZadok in C:\projects\spring\javaAssignment)
+2022-02-12 21:34:27,927 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.6.3, Spring v5.3.15
+2022-02-12 21:34:27,928 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2022-02-12 21:34:29,675 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 8080 (http)
+2022-02-12 21:34:29,704 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-8080"]
+2022-02-12 21:34:29,705 INFO org.apache.juli.logging.DirectJDKLog [main] Starting service [Tomcat]
+2022-02-12 21:34:29,706 INFO org.apache.juli.logging.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/9.0.56]
+2022-02-12 21:34:29,820 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2022-02-12 21:34:29,820 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 1812 ms
+2022-02-12 21:34:30,294 INFO org.apache.juli.logging.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-8080"]
+2022-02-12 21:34:30,328 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 8080 (http) with context path ''
+2022-02-12 21:34:30,345 INFO org.springframework.boot.StartupInfoLogger [main] Started Application in 3.207 seconds (JVM running for 3.899)
+2022-02-12 21:34:42,886 INFO org.apache.juli.logging.DirectJDKLog [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-02-12 21:34:42,887 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+2022-02-12 21:34:42,888 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Completed initialization in 1 ms
+2022-02-12 21:34:42,924 INFO com.rest.assignment.SimpleController [http-nio-8080-exec-1] Time requested at 2022-02-12 21:34:42
+2022-02-12 21:34:48,541 INFO com.rest.assignment.SimpleController [http-nio-8080-exec-3] Time requested at 2022-02-12 21:34:48
+2022-02-12 21:41:06,040 INFO org.springframework.boot.StartupInfoLogger [main] Starting Application using Java 1.8.0_112 on DESKTOP-8AUUKQG with PID 9044 (C:\projects\spring\javaAssignment\target\classes started by AmirZadok in C:\projects\spring\javaAssignment)
+2022-02-12 21:41:06,046 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.6.3, Spring v5.3.15
+2022-02-12 21:41:06,047 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2022-02-12 21:41:07,579 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 8080 (http)
+2022-02-12 21:41:07,595 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-8080"]
+2022-02-12 21:41:07,596 INFO org.apache.juli.logging.DirectJDKLog [main] Starting service [Tomcat]
+2022-02-12 21:41:07,597 INFO org.apache.juli.logging.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/9.0.56]
+2022-02-12 21:41:07,700 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 1595 ms
+2022-02-12 21:41:08,156 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 8080 (http) with context path ''
+2022-02-12 21:41:08,165 INFO org.springframework.boot.StartupInfoLogger [main] Started Application in 2.762 seconds (JVM running for 3.358)
+2022-02-12 21:41:11,021 INFO org.springframework.boot.StartupInfoLogger [main] Starting Application using Java 1.8.0_112 on DESKTOP-8AUUKQG with PID 15372 (C:\projects\spring\javaAssignment\target\classes started by AmirZadok in C:\projects\spring\javaAssignment)
+2022-02-12 21:41:11,026 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.6.3, Spring v5.3.15
+2022-02-12 21:41:11,026 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2022-02-12 21:41:12,815 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 8080 (http)
+2022-02-12 21:41:12,828 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-8080"]
+2022-02-12 21:41:12,829 INFO org.apache.juli.logging.DirectJDKLog [main] Starting service [Tomcat]
+2022-02-12 21:41:12,830 INFO org.apache.juli.logging.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/9.0.56]
+2022-02-12 21:41:12,931 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2022-02-12 21:41:12,931 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 1833 ms
+2022-02-12 21:41:13,332 INFO org.apache.juli.logging.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-8080"]
+2022-02-12 21:41:13,354 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 8080 (http) with context path ''
+2022-02-12 21:41:13,367 INFO org.springframework.boot.StartupInfoLogger [main] Started Application in 3.033 seconds (JVM running for 3.675)
+2022-02-12 21:41:21,716 INFO org.apache.juli.logging.DirectJDKLog [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-02-12 21:41:21,716 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+2022-02-12 21:41:21,717 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Completed initialization in 0 ms
+2022-02-12 21:41:21,747 INFO com.rest.assignment.SimpleController [http-nio-8080-exec-1] Time requested at 2022-02-12 21:41:21
+2022-02-12 21:41:23,356 INFO com.rest.assignment.SimpleController [http-nio-8080-exec-2] Time requested at 2022-02-12 21:41:23
+2022-02-12 21:41:24,057 INFO com.rest.assignment.SimpleController [http-nio-8080-exec-3] Time requested at 2022-02-12 21:41:24
+2022-02-12 21:41:24,267 INFO com.rest.assignment.SimpleController [http-nio-8080-exec-4] Time requested at 2022-02-12 21:41:24
+2022-02-12 21:41:24,446 INFO com.rest.assignment.SimpleController [http-nio-8080-exec-5] Time requested at 2022-02-12 21:41:24
+2022-02-12 21:41:24,630 INFO com.rest.assignment.SimpleController [http-nio-8080-exec-6] Time requested at 2022-02-12 21:41:24
+2022-02-12 21:41:24,814 INFO com.rest.assignment.SimpleController [http-nio-8080-exec-7] Time requested at 2022-02-12 21:41:24
+2022-02-12 21:41:28,086 INFO com.rest.assignment.SimpleController [http-nio-8080-exec-8] Time requested at 2022-02-12 21:41:28
+2022-02-12 23:33:34,334 INFO org.springframework.boot.StartupInfoLogger [main] Starting Application using Java 1.8.0_112 on DESKTOP-8AUUKQG with PID 21808 (C:\projects\spring\javaAssignment\target\classes started by AmirZadok in C:\projects\spring\javaAssignment)
+2022-02-12 23:33:34,337 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.6.3, Spring v5.3.15
+2022-02-12 23:33:34,337 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2022-02-12 23:33:35,485 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 8080 (http)
+2022-02-12 23:33:35,493 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-8080"]
+2022-02-12 23:33:35,494 INFO org.apache.juli.logging.DirectJDKLog [main] Starting service [Tomcat]
+2022-02-12 23:33:35,495 INFO org.apache.juli.logging.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/9.0.56]
+2022-02-12 23:33:35,561 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2022-02-12 23:33:35,562 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 1178 ms
+2022-02-12 23:33:35,837 INFO org.apache.juli.logging.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-8080"]
+2022-02-12 23:33:35,856 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 8080 (http) with context path ''
+2022-02-12 23:33:35,865 INFO org.springframework.boot.StartupInfoLogger [main] Started Application in 2.013 seconds (JVM running for 2.424)
+2022-02-12 23:33:53,480 INFO org.apache.juli.logging.DirectJDKLog [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-02-12 23:33:53,481 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+2022-02-12 23:33:53,483 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Completed initialization in 1 ms
+2022-02-12 23:33:53,520 INFO com.rest.assignment.SimpleController [http-nio-8080-exec-1] Time requested at 2022-02-12 23:33:53
+2022-02-12 23:33:57,805 INFO com.rest.assignment.SimpleController [http-nio-8080-exec-2] Time requested at 2022-02-12 23:33:57
+2022-02-12 23:33:58,863 INFO com.rest.assignment.SimpleController [http-nio-8080-exec-3] Time requested at 2022-02-12 23:33:58
+2022-02-12 23:33:59,749 INFO com.rest.assignment.SimpleController [http-nio-8080-exec-4] Time requested at 2022-02-12 23:33:59
+2022-02-12 23:34:00,101 INFO com.rest.assignment.SimpleController [http-nio-8080-exec-5] Time requested at 2022-02-12 23:34:00
+2022-02-12 23:34:49,244 INFO com.rest.assignment.SimpleController [http-nio-8080-exec-6] Time requested at 2022-02-12 23:34:49
+2022-02-12 23:34:50,301 INFO com.rest.assignment.SimpleController [http-nio-8080-exec-7] Time requested at 2022-02-12 23:34:50
+2022-02-12 23:34:50,724 INFO com.rest.assignment.SimpleController [http-nio-8080-exec-8] Time requested at 2022-02-12 23:34:50
+2022-02-12 23:34:58,249 INFO com.rest.assignment.SimpleController [http-nio-8080-exec-10] Time requested at 2022-02-12 23:34:58
+2022-02-12 23:34:59,385 INFO com.rest.assignment.SimpleController [http-nio-8080-exec-1] Time requested at 2022-02-12 23:34:59
+2022-02-12 23:35:01,569 INFO com.rest.assignment.SimpleController [http-nio-8080-exec-2] Time requested at 2022-02-12 23:35:01
+2022-02-12 23:35:16,419 INFO com.rest.assignment.SimpleController [http-nio-8080-exec-3] Time requested at 2022-02-12 23:35:16
+2022-02-12 23:35:20,093 INFO com.rest.assignment.SimpleController [http-nio-8080-exec-4] Time requested at 2022-02-12 23:35:20
+2022-02-12 23:35:21,153 INFO com.rest.assignment.SimpleController [http-nio-8080-exec-5] Time requested at 2022-02-12 23:35:21
+2022-02-12 23:35:21,838 INFO com.rest.assignment.SimpleController [http-nio-8080-exec-6] Time requested at 2022-02-12 23:35:21
+2022-02-12 23:35:22,224 INFO com.rest.assignment.SimpleController [http-nio-8080-exec-7] Time requested at 2022-02-12 23:35:22
+2022-02-12 23:35:22,410 INFO com.rest.assignment.SimpleController [http-nio-8080-exec-8] Time requested at 2022-02-12 23:35:22
+2022-02-12 23:35:22,603 INFO com.rest.assignment.SimpleController [http-nio-8080-exec-9] Time requested at 2022-02-12 23:35:22
+2022-02-12 23:35:22,789 INFO com.rest.assignment.SimpleController [http-nio-8080-exec-10] Time requested at 2022-02-12 23:35:22
+2022-02-12 23:35:22,979 INFO com.rest.assignment.SimpleController [http-nio-8080-exec-1] Time requested at 2022-02-12 23:35:22
+2022-02-12 23:40:17,290 INFO com.rest.assignment.SimpleController [http-nio-8080-exec-4] Time requested at 2022-02-12 23:40:17
+2022-02-12 23:40:18,046 INFO com.rest.assignment.SimpleController [http-nio-8080-exec-5] Time requested at 2022-02-12 23:40:18
+2022-02-12 23:40:18,681 INFO com.rest.assignment.SimpleController [http-nio-8080-exec-6] Time requested at 2022-02-12 23:40:18
+2022-02-12 23:42:31,295 INFO com.rest.assignment.SimpleController [http-nio-8080-exec-9] Time requested at 2022-02-12 23:42:31
+2022-02-12 23:42:31,917 INFO com.rest.assignment.SimpleController [http-nio-8080-exec-10] Time requested at 2022-02-12 23:42:31
